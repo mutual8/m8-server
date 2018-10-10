@@ -1,0 +1,15 @@
+{
+  "name": "@mutual8/m8-server",
+  "version": "0.0.1",
+  "description": "The Mutual8 server.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutual8/m8-server.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mutual8/m8-server/issues"
+  },
+  "homepage": "https://github.com/mutual8/m8-server#readme"
+}
