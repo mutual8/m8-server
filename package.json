@@ -1,8 +1,7 @@
 {
   "name": "@mutual8/m8-server",
-  "version": "0.0.1",
-  "description": "The Mutual8 server.",
-  "main": "index.js",
+  "private": true,
+  "description": "The Mutual8 server monorepo.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mutual8/m8-server.git"
@@ -11,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/mutual8/m8-server/issues"
   },
-  "homepage": "https://github.com/mutual8/m8-server#readme"
+  "homepage": "https://github.com/mutual8/m8-server#readme",
+  "devDependencies": {
+    "lerna": "^3.5.1"
+  }
 }
