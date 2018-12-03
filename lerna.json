@@ -1,8 +1,4 @@
 {
-  "packages": [
-    "packages/stable/*",
-    "packages/sandbox/*",
-    "packages/deprecated/*"
-  ],
+  "packages": ["packages/*", "packages/_sandbox/*", "packages/_deprecated/*"],
   "version": "0.0.0"
 }
