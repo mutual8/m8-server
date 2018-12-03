@@ -1,0 +1,51 @@
+{
+  "name": "@mutual8/m8-server",
+  "version": "0.0.1",
+  "description": "An Express-powered GraphQL web-server for Mutual 8 apps.",
+  "keywords": [
+    "http",
+    "https",
+    "graphql",
+    "api",
+    "server",
+    "express"
+  ],
+  "author": "The Mutual 8 team.",
+  "contributors": [
+    {
+      "name": "Dmitry",
+      "homepage": "https://github.com/skihappy"
+    },
+    {
+      "name": "Sierk",
+      "homepage": "https://github.com/sierkje"
+    },
+    {
+      "name": "The Mutual 8 community.",
+      "homepage": "https://github.com/mutual8/m8-server/graphs/contributors"
+    },
+  ],
+  "homepage": "https://github.com/mutual8/m8-server/tree/master/packages/_sandbox/m8-server#readme",
+  "license": "AGPL-3.0-or-later",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutual8/m8-server.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/mutual8/m8-server/issues"
+  }
+}
